@@ -1,0 +1,11 @@
+1:: Tansition 
+ def :- transition is nothing but the time period of changing of one state to another 
+  
+2::If we control the transition mean we can control thr timing of one state changing to another state 
+
+3:: Transition Syntax is as follows
+
+   transiton: property name             time       easing function                 delay
+              transition=property     duration   transition-timing-function     transition-delay
+
+
